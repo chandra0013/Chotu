@@ -1,5 +1,15 @@
 # Chotu
 
+<p align="center">
+  <b>Turn rough prompts into precision-crafted AI instructions — instantly.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-v1.0.0-purple" />
+  <img src="https://img.shields.io/badge/license-MIT-green" />
+  <img src="https://img.shields.io/badge/status-active-success" />
+</p>
+
 **Turn rough prompts into precision-crafted AI instructions — instantly.**
 
 Chotu is a Chrome extension that enhances your prompts in real-time using advanced prompt engineering techniques.
