@@ -1,4 +1,4 @@
-# 🚀 Chotu
+# Chotu
 
 **Turn rough prompts into precision-crafted AI instructions — instantly.**
 
@@ -6,7 +6,7 @@ Chotu is a Chrome extension that enhances your prompts in real-time using advanc
 
 ---
 
-## ✨ Why Chotu?
+## Why Chotu?
 
 Most AI outputs fail not because of the model — but because of unclear prompts.
 
@@ -19,18 +19,18 @@ Chotu fixes that by automatically improving:
 
 ---
 
-## ⚡ Features
+## Features
 
-- 🔥 One-click prompt refinement
-- ⌨️ Shortcut: `Ctrl + Shift + Space`
-- 🌐 Works across ChatGPT, Claude, Gemini, Grok, and more
-- 🧠 Smart prompt engineering system
-- ⚡ Fast responses using Groq API
-- 🎯 Improves quality without changing intent
+- One-click prompt refinement
+- Shortcut: `Ctrl + Shift + Space`
+- Works across ChatGPT, Claude, Gemini, Grok, and more
+- Smart prompt engineering system
+- Fast responses using Groq API
+- Improves quality without changing intent
 
 ---
 
-## 🧪 Example
+## Example
 
 ### Input:
 explain machine learning
@@ -40,7 +40,7 @@ Act as a senior AI instructor. Explain machine learning in a beginner-friendly w
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. Download or clone this repository
 2. Go to `chrome://extensions/`
@@ -50,7 +50,7 @@ Act as a senior AI instructor. Explain machine learning in a beginner-friendly w
 
 ---
 
-## 🔑 API Setup
+## API Setup
 
 1. Get a free API key: https://console.groq.com/keys
 2. Open the extension
@@ -59,7 +59,7 @@ Act as a senior AI instructor. Explain machine learning in a beginner-friendly w
 
 ---
 
-## 🎯 Usage
+## Usage
 
 - Type your prompt in any AI tool
 - Press `Ctrl + Shift + Space`
@@ -67,7 +67,7 @@ Act as a senior AI instructor. Explain machine learning in a beginner-friendly w
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 See `CONTRIBUTING.md` for details.
 
